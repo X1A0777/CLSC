@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env pythonDjango 项目的命令行管理工具
+#用于执行各种项目管理命令，如运行开发服务器、数据库迁移等
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
